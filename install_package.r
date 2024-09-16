@@ -1,9 +1,3 @@
-# "Instalar las librerías necesarias en R para la asignatura GISa-HAB"
-# author: "Gonzalo Claros"
-# date: "2024-09-11"
-
-
-# ///////////////////////////
 # Para usuarios de Linux ####
 #
 # Antes de instalar estos paquetes, conviene instalar tres que son específicos de linux
