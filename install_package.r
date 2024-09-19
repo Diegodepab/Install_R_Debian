@@ -77,7 +77,7 @@ cat("New libraries will be installed in the directory \n")
 cat("\n*** Checking CRAN libraries that must be installed *** \n\n")
 
 libs_HAB_CRAN <- c("R.utils", "digest", "rlang", "fastmap", "htmltools", "xfun", "yaml", 
-                   "ggplot2", "ggrepel", "gridExtra", "tidyverse", "tidyquant", "ggpubr",
+                   "ggplot2", "ggrepel", "gridExtra", "tidyverse", "tidyquant", "ggpubr", "ordinal",
                    "scales", "reshape2", "plotly", "ggcorrplot", "GGally", "venn", "ggvenn", "gplots", 
               "VennDiagram", "grid", "knitr", "knitcitations", "markdown", "rmarkdown", "bibtex", "DT",
               "kableExtra", "scholar", "rentrez", "igraph", "psych", "corrplot", "cluster", "NbClust",
